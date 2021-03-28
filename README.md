@@ -5,4 +5,4 @@ hallo ini adalah repsitory pertama saya di github
 
 saya meyukai :coffee: :pizza: dan :national_park:
 
-Terima Kasih
+Thank You
